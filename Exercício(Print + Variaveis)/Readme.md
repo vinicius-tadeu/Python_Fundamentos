@@ -8,7 +8,7 @@ Olá José, seja bem vindo!
 
 Dica: Lembre-se de utilizar uma variável para armazenar o nome ```José```.
 
-# Exercício 2
+# Exercício 2 (Desafio)
 
 Faça um programa que imprima a data de hoje. Com o seguinte resultado:
 
@@ -40,4 +40,4 @@ ano = "2021"
 print("Hoje é dia %i/%i/%i"%(dia,mes,ano))
 ```
 
-Perceba que o ```%i``` é utilizado para substituir o lugar de uma variável no Python, e após as aspas do comando é necessário apenas escrever ```%()``` e dentro dos parênteses as variáveis respectivamente, como foi colocada dentro das aspas do ```print()```.
+Perceba que o ```%i```, assim como o ```%d``` é utilizado para substituir o lugar de uma variável no Python, e após as aspas do comando é necessário apenas escrever ```%()``` e dentro dos parênteses as variáveis respectivamente, como foi colocada dentro das aspas do ```print()```.
