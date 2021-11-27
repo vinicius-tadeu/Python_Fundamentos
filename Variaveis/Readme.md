@@ -42,4 +42,4 @@ espaço = " "
 
 print(nome + espaço +sobrenome)
 ```
-Perceba que das duas formas você irá receber no console o mesmo retorno que é ```João José```.
+Perceba que das duas formas você irá receber no console o mesmo retorno que será ```João José```.
