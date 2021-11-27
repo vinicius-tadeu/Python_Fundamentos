@@ -128,7 +128,7 @@ Isso abrirá o IDLE, onde você pode escrever o código Python e executá-lo com
 <a>https://python.org.br/instalacao-linux/</a>
 
 #
-### Instalando o Python no Linux
+## Instalando o Python no Linux
 Verifique se já tem o Python instalado, se você usa GNU/Linux, provavelmente já possui alguma versão do Python instalada por padrão. Para conferir, digite em um terminal:
 
 ```
