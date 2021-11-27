@@ -80,5 +80,95 @@ De modo geral, a curva de aprendizagem de um aluno é muito individual e conecta
 > Como instalar Python?(Windows)
 <a>https://python.org.br/instalacao-windows/</a>
 
+![image](https://user-images.githubusercontent.com/94875259/143685999-1c9e24c9-8a5a-4dea-a8c4-5180f1a2d954.png)
+
+![image](https://user-images.githubusercontent.com/94875259/143686025-1c5c7f36-d900-4e60-a533-523957e905e9.png)
+
+![image](https://user-images.githubusercontent.com/94875259/143686042-f8f4be56-a6a3-4022-81bb-4ce2d130c9d3.png)
+
+![image](https://user-images.githubusercontent.com/94875259/143686061-d9417ac0-fe3f-4441-b0d4-c2f65d8c839e.png)
+
+![image](https://user-images.githubusercontent.com/94875259/143686066-89b15a62-e655-4307-91da-651176d98a4d.png)
+
+![image](https://user-images.githubusercontent.com/94875259/143686073-c33caafa-7150-4141-a00d-143e50eeef65.png)
+
+Digite o comando:
+
+```
+python --version
+```
+Este comando retornará a versão do python que está instalada em sua máquina.
+
+![image](https://user-images.githubusercontent.com/94875259/143686122-352230ee-985e-41e8-ba87-7a5882a268e7.png)
+
+Agora digite:
+
+```
+pip --version
+```
+Esse comando retornará a versão do pip que está instalada em sua máquina. O pip é o gerenciador de pacote do Python. Com ele você poderá adicionar novas funcionalidades ao seu Python.
+
+![image](https://user-images.githubusercontent.com/94875259/143686160-ae8f7952-45ae-41e9-8222-ecb32a54cd07.png)
+
+## IDLE
+O IDLE (Ambiente de Desenvolvimento e Aprendizagem Integrado) é um ambiente de desenvolvimento integrado (IDE) para Python. O instalador do Python para Windows contém o módulo IDLE por padrão.
+
+O IDLE pode ser usado para executar uma única instrução, como o Python Shell, e também para criar, modificar e executar scripts Python. O IDLE fornece um editor de texto completo para criar scripts Python que incluem recursos como destaque de sintaxe, preenchimento automático e recuo inteligente. Ele também possui um depurador com recursos de etapas e pontos de interrupção.
+
+Para iniciar o shell interativo IDLE, procure o ícone IDLE no menu Iniciar e clique duas vezes nele.
+
+![image](https://user-images.githubusercontent.com/94875259/143686177-dfa825d1-5502-4d37-ac08-797478b3388d.png)
+
+Isso abrirá o IDLE, onde você pode escrever o código Python e executá-lo como mostrado abaixo.
+
+![image](https://user-images.githubusercontent.com/94875259/143686195-fa7de187-e322-4ae1-9908-6511ac7a7658.png)
+
+### Pronto, agora o Python, o pip e o Idle já estão instalados em seu sistema Windows.
 > Como instalar Python?(Linux)
 <a>https://python.org.br/instalacao-linux/</a>
+
+#
+## Instalando o Python no Linux
+Verifique se já tem o Python instalado, se você usa GNU/Linux, provavelmente já possui alguma versão do Python instalada por padrão. Para conferir, digite em um terminal:
+
+```
+$ which python
+```
+ou
+```
+$ which python3
+```
+que deve retornar algo como:
+```
+/usr/bin/python
+```
+Isso significa que o Python está instalado nesse endereço.
+
+Caso contrário, se retornar algo como:
+```
+$ which: no python in (/usr/local/sbin:/usr/local/bin:/usr/bin:/usr...)
+```
+você precisa instalar pelos repositórios ou gerenciador de pacotes de sua distribuição.
+
+## Instalação por Gerenciadores de Pacotes
+Os gerenciadores de pacotes mais comuns são apt-get (Debian, Ubuntu) e yum (RedHat, CentOS). Caso sua distribuição utilize um gerenciador de pacotes diferente, acesse a <a href="https://www.python.org/downloads/">página de downloads do Python</a>.
+
+## Apt-get
+Para instalar o Python 3, digite em um terminal:
+```
+$ sudo apt-get install python3
+```
+(Opcional) Para instalar o gerenciador de pacotes pip, digite em um terminal:
+```
+$ sudo apt-get install python3-pip
+```
+
+## Yum
+Para instalar o Python 3, digite em um terminal:
+```
+$ sudo yum install python3
+```
+(Opcional) Para instalar o gerenciador de pacotes pip, digite em um terminal:
+```
+$ yum -y install python3-pip
+```
