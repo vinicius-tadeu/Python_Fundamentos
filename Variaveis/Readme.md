@@ -11,7 +11,7 @@ nome = "João"
 
 print(nome)
 ```
-Perceba que o que você irá receber no console é ```João```, pois é o conteúdo que está dentro da variável ```nome```.
+Perceba que o retorno você irá receber no console é ```João```, pois ele é o conteúdo que está dentro da variável ```nome```.
 
 # Concatenação de variáveis
 
@@ -40,6 +40,6 @@ nome = "João"
 sobrenome = "José"
 espaço = " "
 
-print(nome + espaço +sobrenome)
+print(nome + espaço + sobrenome)
 ```
 Perceba que das duas formas você irá receber no console o mesmo retorno que será ```João José```.
