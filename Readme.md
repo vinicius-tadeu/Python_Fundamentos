@@ -1,175 +1,59 @@
-# Introdução
-### Nesse diretório, explico um pouco do que é a linguagem de programação python e como ela pode ser utilizada.
+# Motivos para aprender Python
 
+## 1. Facilidade
+Python é uma linguagem muito fácil de aprender. Usando uma sintaxe bastante simples, ela permite explorar recursos complexos de linguagens mais complicadas (como Java e C++) com uma dificuldade muitas vezes menor.
 #
+## 2. Aumento de produtividade
+O segundo motivo de por que aprender Python é que essa praticidade contribui para que seja bastante intuitivo programar nessa linguagem. Consequentemente, vão haver menos erros no código, poupando tempo.
 
-> O que é Python?
-
-<p>
-Python é uma linguagem de programação de alto nível — ou High Level Language —, dinâmica, interpretada, modular, multiplataforma e orientada a objetos — uma forma específica de organizar softwares onde, a grosso modo, os procedimentos estão submetidos às classes, o que possibilita maior controle e estabilidade de códigos para projetos de grandes proporções.
-
-Por ser uma linguagem de sintaxe relativamente simples e de fácil compreensão, ganhou popularidade entre profissionais da indústria tecnológica que não são especificamente programadores, como engenheiros, matemáticos, cientistas de dados, pesquisadores e outros.
-
-Um de seus maiores atrativos é possuir um grande número de bibliotecas, nativas e de terceiros, tornando-a muito difundida e útil em uma grande variedade de setores dentro de desenvolvimento web, e também em áreas como análise de dados, machine learning e IA.</p>
-
+Além disso, com conhecimentos básicos de Python, você já pode automatizar uma série de processos que teria de fazer a mão, facilitando bastante sua vida.
 #
-> Qual a origem da linguagem Python?
+## 3. Comunidade ampla e popularidade
+Por ser uma linguagem bastante popular, é muito fácil achar material de aprendizagem na internet. Há sites como o [Stack Overflow](https://stackoverflow.com), por exemplo, onde você pode fazer perguntas, e uma grande comunidade de programadores está sempre disposta a colaborar e tirar dúvidas. E também em fóruns como o Discord da própria Digital Innovation One.
 
-<p>Idealizada e desenvolvida por Guido Van Rossum, matemático holandês, no início dos anos 90, o Python foi criado com o objetivo de otimizar a leitura de códigos e estimular a produtividade de quem os cria, seja este um programador ou qualquer outro profissional.
-
-A ideia surgiu, como quase todas as boas ideias, de uma necessidade: a de economizar tempo no desenvolvimento e melhorar a eficiência em um projeto desenvolvido no instituto onde Guido era pesquisador.
-
-Para que esta melhoria pudesse ser feita de forma mais rápida e eficaz, Guido desenvolveu uma linguagem muito descomplicada e flexível: o Python.
-
-Uma vez que esta linguagem passou a possibilitar a criação desde scripts muito simples até sistemas extremamente poderosos, profissionais de várias áreas começaram a progressivamente utilizá-la cada vez mais.
-
-Hoje, além dos desenvolvedores de software, temos biólogos, contadores, físicos e outros profissionais potencializando suas habilidades através dela.
-
-Estes são alguns motivos que tem feito o uso do Python crescer consideravelmente nos últimos anos em detrimento de outras linguagens.</p>
-
+Também existem diversas bibliotecas disponibilizadas gratuitamente por outros desenvolvedores, que possibilitam executar funções ainda mais elaboradas.
 #
+## 4. Utilização versátil
+Outro motivo de por que aprender Python é que sua extensão nos permite executar diversas operações integradas com outras linguagens de programação (as chamadas operações cross-language), como Java, bibliotecas C e C++ e componentes .NET.
 
-> Para que é usado o Python?
-
-<p>Como já citado acima, o Python é uma linguagem muito popular nas áreas da tecnologia relacionadas à análise de dados, pesquisa, desenvolvimento de algoritmos e IA. Mas, afinal, o que pode ser feito em Python?
-
-Abaixo, detalharei um pouco mais suas utilizações em cada uma destas áreas.</p>
-
+Além disso, várias plataformas suportam Python, como Windows, Linux e Macintosh.
 #
-> Quais as vantagens de programar em Python?
+## 5. Inteligência Artificial
+Os códigos construídos nessa linguagem utilizam estatísticas que permitem aos computadores desempenhar diferentes ações. Por isso, ele é bastante utilizado na Inteligência Artificial, sendo mais um motivo para aprender Python.
 
-<p>
-Como você pode estar percebendo, as vantagens de se dedicar ao aprendizado de Python são muitas, e entre elas está o fato de que os profissionais especializados nesta linguagem de programação no mercado são escassos.
-
-Ou seja: ao se destacar como um bom programador Python, sua concorrência profissional será baixíssima.
-
-Outros benefícios do Python são:
-
-1. Simples e fácil de aprender: a curva de aprendizado de um estudante de Python é, de modo geral, relativamente baixa. A linguagem, por ter uma sintaxe muito acessível e ter sido criada em prol da agilidade e da produtividade de quem a utiliza, é absorvida rápida e facilmente.
-
-2. Portátil, extensível e multiplataforma: por ser uma linguagem portátil e multiplataforma, o Python roda com tranquilidade em diversos sistemas operacionais, desde que seu interpretador esteja instalado. Além disso, o Python também é conhecido por suas propriedades extensíveis, tendo à sua disposição mais de 125.000 bibliotecas super versáteis.
-
-3. Licença de uso público: em outras palavras: o Python é totalmente gratuito! Para instalar, utilizar e desenvolver em Python, basta simplesmente fazê-lo.
-
-Além disso, a maior pesquisa realizada na área da programação, a StackOverflow Survey, perguntou este ano para desenvolvedores do mundo inteiro em qual linguagem eles mais gostam de programar e adivinhem: Python ficou em 1° lugar!</p>
-
+Por exemplo, existem bibliotecas como a Keras, que permite testar redes neurais artificiais, elemento do Machine Learning que simula o sistema nervoso central dos seres vivos, permitindo que a máquina reconheça padrões e aprenda. Outras bibliotecas utilizadas nesse sentido são a Tensor Flow, Theano e Scikit-learn.
 #
-> Quais empresas usam Python?
+## 6. Programação web
+Spotify e Reddit são dois exemplos de sites famosos que funcionam utilizando estruturas em Python. Existem diversas bibliotecas que tornam o desenvolvimento web bem mais simples e fácil.
 
-<p>O Python é extremamente presente na vida de quem utiliza a internet com regularidade, principalmente por sua colaboração na criação de algoritmos, desde os menos complexos até funções de aprendizado de máquina.
-
-Algumas empresas que utilizam Python e têm parte de seus serviços desenvolvidos nesta linguagem são Dropbox, Spotify, Airbnb e Uber.
-
-As redes sociais Facebook, Instagram e Pinterest também têm algumas de suas funcionalidades escritas em Python.
-
-Até mesmo a gigante NASA utiliza esta linguagem de programação!
-
-Isso não significa, porém, que somente empresas de grande porte possam se beneficiar de seus benefícios competitivos.</p>
-
+Por exemplo, o framework Django reúne diversos componentes já prontos que você pode utilizar, como autenticação de usuários, upload de arquivos e formulários. Existem ainda mais bibliotecas como CherryPy, Pyramid, web2py, entre outras.
 #
-> Quanto tempo leva para aprender Python?
+## 7. Gerenciamento de Big Data
+Outro motivo que responde por que aprender Python é sua utilização para gerenciar Big Data. Isso porque existem diversas bibliotecas que fazem a análise de dados, como a Pandas, Dask e Pyspark. Elas permitem fazer o processamento de informações com bastante praticidade.
 
-<p>O Python é uma linguagem de programação de compreensão bastante acessível, com uma sintaxe simples e legibilidade clara, além de ter uma aprendizagem bastante rápida.
+Essa interação com bancos de dados e a possibilidade de lidar com milhares de informações torna Python muito útil para diversas aplicações. Você pode utilizá-lo para tarefas mais simples, como extrair e organizar dados em uma planilha no Excel, ou para tarefas mais complexas, como interpretar dados de tráfego de internet.
 
-Para quem já tem alguma bagagem intelectual em lógica de programação, é possível aprender Python em apenas algumas semanas.
-
-Há quem diga que, para os iniciantes, é possível tornar-se um programador de nível básico em apenas um mês, a depender da frequência de estudos.
-
-De modo geral, a curva de aprendizagem de um aluno é muito individual e conectada a muitos aspectos de sua vida prática, como por exemplo tempo de dedicação e conhecimento prévio de disciplinas que podem estar relacionadas aos novos conceitos estudados.</p>
-
+E, para unir o conhecimento do Python com o Excel não basta só conhecer a linguagem de programação mas também conhecer essa ferramenta da Microsoft.
 #
-> Como instalar Python?(Windows)
-<a>https://python.org.br/instalacao-windows/</a>
+## 8. Computação Gráfica
+Podemos utilizar Python para construir interfaces gráficas de usuário (GUI - Graphic User Interface), através da biblioteca "Tkinter", que já vem com a instalação padrão de Python para Windows, Linux e Mac. É um modo fácil e rápido de criar um programa em Python, seja ele online, offline, grande ou pequeno.
 
-![image](https://user-images.githubusercontent.com/94875259/143685999-1c9e24c9-8a5a-4dea-a8c4-5180f1a2d954.png)
-
-![image](https://user-images.githubusercontent.com/94875259/143686025-1c5c7f36-d900-4e60-a533-523957e905e9.png)
-
-![image](https://user-images.githubusercontent.com/94875259/143686042-f8f4be56-a6a3-4022-81bb-4ce2d130c9d3.png)
-
-![image](https://user-images.githubusercontent.com/94875259/143686061-d9417ac0-fe3f-4441-b0d4-c2f65d8c839e.png)
-
-![image](https://user-images.githubusercontent.com/94875259/143686066-89b15a62-e655-4307-91da-651176d98a4d.png)
-
-![image](https://user-images.githubusercontent.com/94875259/143686073-c33caafa-7150-4141-a00d-143e50eeef65.png)
-
-Digite o comando:
-
-```
-python --version
-```
-Este comando retornará a versão do python que está instalada em sua máquina.
-
-![image](https://user-images.githubusercontent.com/94875259/143686122-352230ee-985e-41e8-ba87-7a5882a268e7.png)
-
-Agora digite:
-
-```
-pip --version
-```
-Esse comando retornará a versão do pip que está instalada em sua máquina. O pip é o gerenciador de pacote do Python. Com ele você poderá adicionar novas funcionalidades ao seu Python.
-
-![image](https://user-images.githubusercontent.com/94875259/143686160-ae8f7952-45ae-41e9-8222-ecb32a54cd07.png)
-
-## IDLE
-O IDLE (Ambiente de Desenvolvimento e Aprendizagem Integrado) é um ambiente de desenvolvimento integrado (IDE) para Python. O instalador do Python para Windows contém o módulo IDLE por padrão.
-
-O IDLE pode ser usado para executar uma única instrução, como o Python Shell, e também para criar, modificar e executar scripts Python. O IDLE fornece um editor de texto completo para criar scripts Python que incluem recursos como destaque de sintaxe, preenchimento automático e recuo inteligente. Ele também possui um depurador com recursos de etapas e pontos de interrupção.
-
-Para iniciar o shell interativo IDLE, procure o ícone IDLE no menu Iniciar e clique duas vezes nele.
-
-![image](https://user-images.githubusercontent.com/94875259/143686177-dfa825d1-5502-4d37-ac08-797478b3388d.png)
-
-Isso abrirá o IDLE, onde você pode escrever o código Python e executá-lo como mostrado abaixo.
-
-![image](https://user-images.githubusercontent.com/94875259/143686195-fa7de187-e322-4ae1-9908-6511ac7a7658.png)
-
-### Pronto, agora o Python, o pip e o Idle já estão instalados em seu sistema Windows.
-> Como instalar Python?(Linux)
-<a>https://python.org.br/instalacao-linux/</a>
-
+Existem ainda outras bibliotecas similares, como o PyQt e WxPython.
 #
-## Instalando o Python no Linux
-Verifique se já tem o Python instalado, se você usa GNU/Linux, provavelmente já possui alguma versão do Python instalada por padrão. Para conferir, digite em um terminal:
+## 9. Automação
+Além de tudo, Python ainda é uma linguagem de script. Isso quer dizer que com ela, é possível automatizar a execução de tarefas que seriam feitas por um operador humano, uma a uma. Essa automação pode reduzir substancialmente o tempo e energia que seriam gastos.
 
-```
-$ which python
-```
-ou
-```
-$ which python3
-```
-que deve retornar algo como:
-```
-/usr/bin/python
-```
-Isso significa que o Python está instalado nesse endereço.
+Uma vantagem é que um script de Python pode ser usado por outros scripts. É como se suas funções fossem "emprestadas" para outros projetos, importando elas como biblioteca.
+#
+## 10. Mercado amplo
+As possibilidades profissionais para quem programa nesta linguagem são bem variadas. Grandes empresas como Google, Netflix e Apple procuram profissionais para desenvolver em Python.
 
-Caso contrário, se retornar algo como:
-```
-$ which: no python in (/usr/local/sbin:/usr/local/bin:/usr/bin:/usr...)
-```
-você precisa instalar pelos repositórios ou gerenciador de pacotes de sua distribuição.
+De acordo com uma pesquisa feita pelo site Coding Dojo, Python é a terceira linguagem de programação mais procurada pelo mercado, atrás somente de JavaScript e Java.
+#
+## 11. Salário
+As principais atividades que um programador dessa linguagem desempenha hoje estão relacionadas a desenvolvimento web, banco de dados, análise de dados entre outros.
 
-## Instalação por Gerenciadores de Pacotes
-Os gerenciadores de pacotes mais comuns são apt-get (Debian, Ubuntu) e yum (RedHat, CentOS). Caso sua distribuição utilize um gerenciador de pacotes diferente, acesse a <a href="https://www.python.org/downloads/">página de downloads do Python</a>.
+Com mercado aquecido para programação proporciona bons salários para quem trabalha com essa linguagem.
 
-## Apt-get
-Para instalar o Python 3, digite em um terminal:
-```
-$ sudo apt-get install python3
-```
-(Opcional) Para instalar o gerenciador de pacotes pip, digite em um terminal:
-```
-$ sudo apt-get install python3-pip
-```
-
-## Yum
-Para instalar o Python 3, digite em um terminal:
-```
-$ sudo yum install python3
-```
-(Opcional) Para instalar o gerenciador de pacotes pip, digite em um terminal:
-```
-$ yum -y install python3-pip
-```
+E aí curtiram o post? Deixem o seu comentário, até a próxima pessoal!
+#
