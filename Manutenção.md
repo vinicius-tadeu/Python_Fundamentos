@@ -1,1 +1,1 @@
-# O repositório está em manutenção. Aguarde até que o mesmo fique pronto.
+# O repositório está sofrendo atualizações. Aguarde até que o mesmo fique pronto.
