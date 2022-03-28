@@ -1,8 +1,8 @@
 # Print
 
-O comando print é utilizado basicamente para imprimir uma mensagem na tela.
+O comando print é utilizado para imprimir uma mensagem na tela.
 
-#### Tente:
+#### Exemplo:
 ```
 print('Olá mundo')
 ```
